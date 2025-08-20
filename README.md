@@ -23,7 +23,7 @@
 
 - 💻 I’m a **Full Stack Web Developer (MERN)** trained at **Masai School**
 - 🌱 Currently learning **System Design Basics**
-- 👨‍💻 Projects include: **Loan Application System**, **Team Collaboration App**, **Investment Tracker**
+- 👨‍💻 Projects include: **Loan Application System**, **Food Donation Application**
 - 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `System Design`
 - 📫 Reach me: **ashokmohanta2405@gmail.com**
 - 🎯 Goal: Building performant, secure, and scalable web apps
