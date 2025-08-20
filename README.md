@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&padding=2&lines=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Design+Learner+%7C+UI+Lover" alt="Typing SVG" />
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
+<img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="180"/>
 </p>
 
 
