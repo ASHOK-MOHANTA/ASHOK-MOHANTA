@@ -3,7 +3,8 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer | MERN Stack | System Design Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=650&padding=2&lines=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Design+Learner+%7C+UI+Lover&color=A755F7&background=0D1117&center=true&vCenter=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&padding=2&lines=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Design+Learner+%7C+UI+Lover&color=A755F7" alt="Typing SVG" />
+
 
 
 <img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="200"/>
