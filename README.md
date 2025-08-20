@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 <h1 align="center">Hi 👋, I'm Ashok Mohanta</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | MERN Stack | System Design Learner</h3>
 
